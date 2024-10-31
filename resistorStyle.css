@@ -1,0 +1,74 @@
+.cResist
+{
+
+}
+#resistError, .fullWidth
+{
+    width: 100%;
+}
+.col45
+{
+    margin-top: 20px;
+    width: 45%;
+    float: left;
+    text-align: center;
+}
+#allSliders
+{
+    width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#totalResistance
+{
+    text-align: center;
+}
+.formWrapper
+{
+    text-align: center;
+    width: 40px;
+    float: left;
+}
+.sliderWrapper
+{
+    border: 1px solid #000;   
+    width: 20px;
+    margin: auto;
+}
+.rulerColor
+{
+    text-align: center;
+    width: 20px;
+    height: 20px;
+}
+.inputFake
+{
+    
+    text-align: center;
+    width: 20px;
+}
+.slider
+{
+    text-align: center;
+    line-height: 32px;
+    vertical-align: middle;
+    position: absolute;
+    margin-left: -6px;
+    margin-top: -6px;
+    width: 32px;
+    height: 32px;
+    background-color: #000000;
+
+    border: 1px solid #000000;
+    -webkit-border-radius: 4px;    /* for Safari */
+    -moz-border-radius: 4px;       /* for Firefox */
+    
+}
+
+.rounded
+{
+
+    -webkit-border-radius: 4px;    /* for Safari */
+    -moz-border-radius: 4px;       /* for Firefox */
+    
+}
